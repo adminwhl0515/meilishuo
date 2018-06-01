@@ -8,4 +8,5 @@ table{border-collapse:collapse}
 a{text-decoration:none;color:#000;}
 fieldset{border:none}
 .top,section>article,.box1,.box3{width:1140px;margin: 0 auto;}
+a:hover{text-decoration: none;}
 /*input{border: none;}*/
