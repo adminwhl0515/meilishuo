@@ -86,5 +86,5 @@ window.onload = function(){
 						arr[i].top += $(this).outerHeight()+ space;
 						$bigBox.css('height',arr[i].top);
 					
-				})
+			});
 			}
